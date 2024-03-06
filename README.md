@@ -1,2 +1,2 @@
-# Web-Development-Course
-Public Repository for Web Development Course for Beginners
+# News website
+Public Repository for News website Course for Beginners
